@@ -8,3 +8,6 @@
 * atom-import-cost
 * color-picker
 * teletype
+* pigments
+* prettier-atom
+* autosave (part of core packages; enable it)

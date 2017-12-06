@@ -3,6 +3,7 @@
 * auto-update-packages
 * language-babel
 * linter-eslint
+  * enable "Fix errors on save"
 * merge-conflicts
 * nuclide
 * atom-import-cost

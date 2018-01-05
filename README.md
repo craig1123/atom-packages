@@ -12,3 +12,4 @@
 * pigments
 * prettier-atom
 * autosave (part of core packages; enable it)
+* tree-view-copy-project-path
